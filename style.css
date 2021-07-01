@@ -29,10 +29,17 @@ header {
     display: inline-block;
 
 }
-#btn {
+.btn {
     margin-top: 15px;
     text-align: center;
 }
 footer {
     text-align: center;
+}
+.selected {
+    border-color: white;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+
 }
